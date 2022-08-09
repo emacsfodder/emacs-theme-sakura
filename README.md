@@ -10,6 +10,22 @@ Sahasrara installation
 M-x package-install emacs-theme-sahasrara 
 ```
 
+## Screenshots
+
+![](sahasrara-00001.png)
+
+![](sahasrara-00002.png)
+
+![](sahasrara-00003.png)
+
+![](sahasrara-00004.png)
+
+![](sahasrara-00005.png)
+
+![](sahasrara-00006.png)
+
+![](sahasrara-00007.png)
+
 ## Autothemer
 
 Sahasrara uses autothemer.  It dramatically improves developer happiness when writing themes for Emacs.
