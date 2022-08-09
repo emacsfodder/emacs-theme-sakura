@@ -1,32 +1,34 @@
-# Sahasrara Emacs Theme 
+# Sakura Emacs Theme 
 
-A Theme with a touch of purple.
+A Theme of cherry blossom orchards
 
 ## Installation
 
-Sahasrara installation
+Sakura installation
 
 ```sh
-M-x package-install emacs-theme-sahasrara 
+M-x package-install emacs-theme-sakura 
 ```
 
 ## Screenshots
 
-![](sahasrara-00002.png)
+![](sakura-00001.png)
 
-![](sahasrara-00003.png)
+![](sakura-00002.png)
 
-![](sahasrara-00004.png)
+![](sakura-00003.png)
 
-![](sahasrara-00005.png)
+![](sakura-00004.png)
 
-![](sahasrara-00006.png)
+![](sakura-00005.png)
 
-![](sahasrara-00007.png)
+![](sakura-00006.png)
+
+![](sakura-00007.png)
 
 ## Autothemer
 
-Sahasrara uses autothemer.  It dramatically improves developer happiness when writing themes for Emacs.
+Sakura uses autothemer.  It dramatically improves developer happiness when writing themes for Emacs.
 
 If you're making Emacs themes, try it.
 
