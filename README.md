@@ -12,8 +12,6 @@ M-x package-install emacs-theme-sakura
 
 ## Screenshots
 
-https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00002.png?raw=true
-
 ![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00002.png)
 
 ![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00003.png)
