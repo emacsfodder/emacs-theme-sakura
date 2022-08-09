@@ -12,19 +12,19 @@ M-x package-install emacs-theme-sakura
 
 ## Screenshots
 
-![](sakura-00001.png)
+https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00002.png?raw=true
 
-![](sakura-00002.png)
+![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00002.png)
 
-![](sakura-00003.png)
+![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00003.png)
 
-![](sakura-00004.png)
+![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00004.png)
 
-![](sakura-00005.png)
+![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00005.png)
 
-![](sakura-00006.png)
+![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00006.png)
 
-![](sakura-00007.png)
+![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00007.png)
 
 ## Autothemer
 
