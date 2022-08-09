@@ -32,8 +32,8 @@
 
   (sahasrara-medium                "#A12CDD")
 
-  (sahasrara-foreground-0-hard     "#FF132132")
-  (sahasrara-foreground-0          "#EFD3FF")
+  (sahasrara-foreground-0-hard     "#FFF9FF")
+  (sahasrara-foreground-0          "#FFE0FF")
   (sahasrara-foreground-0-soft     "#ECC7FF")
   (sahasrara-foreground-1          "#E0B0F9")
   (sahasrara-foreground-2          "#E5B3FF")
