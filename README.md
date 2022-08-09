@@ -12,8 +12,6 @@ M-x package-install emacs-theme-sahasrara
 
 ## Screenshots
 
-![](sahasrara-00001.png)
-
 ![](sahasrara-00002.png)
 
 ![](sahasrara-00003.png)
