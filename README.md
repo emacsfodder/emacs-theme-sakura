@@ -2,7 +2,7 @@
 
 A Theme of cherry blossom orchards
 
-![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura.png)
+![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura.jpg)
 
 ## Installation
 
