@@ -26,11 +26,13 @@ M-x package-install emacs-theme-sakura
 
 ![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-sakura/images/sakura-00007.png)
 
-## Autothemer
+## How it was made
 
-Sakura uses autothemer.  It dramatically improves developer happiness when writing themes for Emacs.
+Sakura was built with [Autothemer](https://github.com/jasonm23/autothemer)
+and [Kurecolor](https://github.com/emacsfodder/kurecolor). They dramatically
+improve developer happiness when writing themes for Emacs.
 
-If you're making Emacs themes, try it.
+If you're making Emacs themes you should check them out.
 
 ## Modes supported
 
