@@ -1,8 +1,8 @@
-# Sakura Emacs Theme 
+# Sakura Emacs Theme
 
 An Emacs theme of cherry blossoms
 
-![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura.jpg)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-sakura/images/sakura.jpg)
 
 ## Installation
 
@@ -14,17 +14,17 @@ M-x package-install emacs-theme-sakura
 
 ## Screenshots
 
-![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00002.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-sakura/images/sakura-00002.png)
 
-![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00003.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-sakura/images/sakura-00003.png)
 
-![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00004.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-sakura/images/sakura-00004.png)
 
-![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00005.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-sakura/images/sakura-00005.png)
 
-![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00006.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-sakura/images/sakura-00006.png)
 
-![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura-00007.png)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-sakura/images/sakura-00007.png)
 
 ## Autothemer
 
