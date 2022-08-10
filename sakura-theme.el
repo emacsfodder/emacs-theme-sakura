@@ -1,4 +1,4 @@
-;;; sakura-theme.el --- A Theme of cherry blossom orchards
+;;; sakura-theme.el --- An Emacs theme of cherry blossoms
 
 ;; Copyright (c) 2022 Jason Milkins (GNU/GPL Licence)
 
@@ -8,7 +8,7 @@
 ;; Package-Requires: ((autothemer "0.2") (emacs "24"))
 
 ;;; Commentary:
-;;  A Theme of cherry blossom orchards
+;;  An Emacs theme of cherry blossoms
 
 ;;; GUI Support only.
 
@@ -19,7 +19,7 @@
   (error "Requires Emacs 24 or later"))
 
 (autothemer-deftheme  sakura
-                      "A Theme of cherry blossom orchards"
+                      "An Emacs theme of cherry blossoms"
  ((((class color) (min-colors #xFFFFFF))) ;; GUI/24bit only
 
   (sakura-background-0-hard     "#030007")
