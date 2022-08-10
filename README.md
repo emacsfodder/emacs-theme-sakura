@@ -1,6 +1,6 @@
 # Sakura Emacs Theme 
 
-A Theme of cherry blossoms
+an Emacs theme of cherry blossoms
 
 ![](https://github.com/emacsfodder/emacs-theme-sakura/blob/images/sakura.jpg)
 
