@@ -9,7 +9,7 @@ An Emacs theme of cherry blossoms
 Sakura installation
 
 ```sh
-M-x package-install emacs-theme-sakura 
+M-x package-install sakura-theme 
 ```
 
 ## Screenshots
