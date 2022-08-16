@@ -1,4 +1,4 @@
-;;; sakura-theme.el --- An Emacs theme of cherry blossoms
+;;; sakura-theme.el --- filled with cherry blossoms.
 
 ;; Copyright (c) 2022 Jason Milkins (GNU/GPL Licence)
 
@@ -25,7 +25,7 @@
 ;; Floor, Boston, MA 02110-1301, USA.
 
 ;;; Commentary:
-;;  An Emacs theme of cherry blossoms
+;;  filled with cherry blossoms
 
 ;;; GUI Support only.
 
@@ -36,7 +36,7 @@
   (error "Requires Emacs 24 or later"))
 
 (autothemer-deftheme  sakura
-                      "An Emacs theme of cherry blossoms"
+                      "filled with cherry blossoms"
  ((((class color) (min-colors #xFFFFFF))) ;; GUI/24bit only
 
   (sakura-background-0-hard     "#030007")
