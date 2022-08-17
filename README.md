@@ -1,3 +1,5 @@
+[![MELPA](http://stable.melpa.org/packages/sakura-theme-badge.svg)](http://stable.melpa.org/#/sakura-theme) [![MELPA](http://melpa.org/packages/sakura-theme-badge.svg)](http://melpa.org/#/sakura-theme)
+
 # Sakura Emacs Theme
 
 An Emacs theme of cherry blossoms
