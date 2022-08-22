@@ -5,7 +5,7 @@
 An Emacs theme of cherry blossoms
 
 ![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-sakura/images/sakura.jpg)
-![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-sakura/master/palette.svg)
+![](https://raw.githubusercontent.com/emacsfodder/emacs-theme-sakura/master/sakura.svg)
 
 ## Installation
 
