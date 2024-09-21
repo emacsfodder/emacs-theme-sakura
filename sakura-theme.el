@@ -4,8 +4,8 @@
 
 ;; Authors: Jason Milkins <jasonm23@gmail.com>
 ;; URL: http://github.com/emacsfodder/emacs-theme-sakura
-;; Version: 1.0.1
-;; ;; Package-Requires: ((autothemer "0.2") (emacs "24"))
+;; Version: 1.0.2
+;; Package-Requires: ((autothemer "0.2") (emacs "24"))
 
 ;;; License
 ;;
